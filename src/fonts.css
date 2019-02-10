@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "SF-UI-Display-Regular";
+  src: url("/fonts/SF-UI-Display-Regular.ttf") format("ttf"),
+  url("/fonts/SF-UI-Display-Regular.eot") format("eot"),
+  url("/fonts/SF-UI-Display-Regular.svg") format("svg");
+}
+
+@font-face {
+  font-family: "SF-UI-Display-Semibold";
+  src: url("/fonts/SF-UI-Display-Semibold.otf") format("otf");
+}
